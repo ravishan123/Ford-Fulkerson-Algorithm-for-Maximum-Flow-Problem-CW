@@ -1,1 +1,1 @@
-# Ford-Fulkerson-Algorithm-for-Maximum-Flow-Problem-CW
+# Ford-Fulkerson-Algorithm-for-Maximum-Flow-Problem
